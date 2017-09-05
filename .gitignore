@@ -1,0 +1,14 @@
+Kaggle_Fisheries/__MACOSX
+Kaggle_Fisheries/train/.DS_Store
+Kaggle_Fisheries/train/*/*.jpg
+Kaggle_Fisheries/.ipynb_checkpoints/
+Kaggle_Fisheries/train_1280x720/
+Kaggle_Fisheries/for_detectnet/
+Kaggle_Whale/imgs/
+Kaggle_Whale/__MACOSX/
+Kaggle_Whale/train.csv
+Kaggle_Whale/.ipynb_checkpoints/
+Kaggle_Whale/annotations/slothwhales.pyc
+Kaggle_Whale/train_720x480/
+Kaggle_Whale/annotations/whale_faces_720x480.json
+Kaggle_Whale/detectnet_720x480/
