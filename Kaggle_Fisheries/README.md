@@ -12,4 +12,5 @@ To process the dataset for DetectNet training, run the 2 scripts in the followin
 You can refer to my blog posts for more detailed description about how I processed this dataset and how I trained a NVIDIA DetectNet model with it.
 
 [Training a Fish Detector with NVIDIA DetectNet (Part 1/2)](https://jkjung-avt.github.io/fisheries-dataset/)
+
 [Training a Fish Detector with NVIDIA DetectNet (Part 2/2)](https://jkjung-avt.github.io/detectnet-training/)
