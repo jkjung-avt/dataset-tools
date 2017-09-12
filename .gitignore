@@ -12,3 +12,6 @@ Kaggle_Whale/annotations/slothwhales.pyc
 Kaggle_Whale/train_720x480/
 Kaggle_Whale/annotations/whale_faces_720x480.json
 Kaggle_Whale/detectnet_720x480/
+Brainwash/.ipynb_checkpoints
+Brainwash/brainwash
+Brainwash/detectnet_640x480
